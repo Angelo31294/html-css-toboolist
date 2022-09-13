@@ -14,6 +14,7 @@ body{
 header{
     padding: 10px 20px;
     background-color: white;
+    margin-bottom: 50px;
 }
 
 .Logo{
@@ -24,4 +25,30 @@ h1{
     display: inline-block;
     vertical-align: middle;
 }
-/* /Header */
+
+/* Main */
+.container1{
+    max-width: 800px;
+    margin: auto;
+    padding: 10px 30px;
+    background-color: white;
+    border-bottom: 1px solid #F6F8F9;
+}
+
+/* Button */
+.button{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 8px;
+}
+
+.blu{
+    background-color: #45ABEA;
+    color: white;
+}
+
+.grey{
+    background-color: white;
+    border: 1px solid lightgrey;
+    color: lightgrey;
+}
