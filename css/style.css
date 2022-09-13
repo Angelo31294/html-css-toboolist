@@ -27,6 +27,8 @@ h1{
 }
 
 /* Main */
+
+/* Button */
 .container1{
     max-width: 800px;
     margin: auto;
@@ -35,7 +37,6 @@ h1{
     border-bottom: 1px solid #F6F8F9;
 }
 
-/* Button */
 .button{
     border: none;
     border-radius: 5px;
@@ -51,4 +52,36 @@ h1{
     background-color: white;
     border: 1px solid lightgrey;
     color: lightgrey;
+}
+
+/* New task */
+
+.container2{
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+h3{
+    padding: 20px 30px;
+}
+
+.check{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+    text-align: center;
+    margin-left: 30px;
+}
+
+p{
+    display: inline-block;
+    font-size: large;
+}
+
+.tag{
+    font-size: 10px;
 }
