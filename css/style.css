@@ -54,7 +54,7 @@ h1{
     color: lightgrey;
 }
 
-/* New task */
+/* New task - Today - Upcoming */
 
 .container2{
     max-width: 800px;
@@ -62,6 +62,10 @@ h1{
     background-color: white;
 }
 
+
+section{
+    margin-bottom: 15px;
+}
 h3{
     padding: 20px 30px;
 }
@@ -104,4 +108,12 @@ p{
 
 .orange{
     background-color: #F29E33;
+}
+
+.fuxia{
+    background-color: #D863A1;
+}
+
+.lime{
+    background-color: #B0C926;
 }
