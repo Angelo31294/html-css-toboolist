@@ -41,6 +41,8 @@ h1{
     border: none;
     border-radius: 5px;
     padding: 5px 8px;
+    vertical-align: middle;
+    font-family: inherit;
 }
 
 .blu{
